@@ -1,3 +1,5 @@
+
+
 # Code Query Agent
 
 ## Project Description
@@ -22,8 +24,7 @@ This repository contains a Python-based agent designed to query and process code
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/smahmudrahat/Multi-Agent-For-Code-generation-in-local-machine-.git
    ```
 
 2. **Create and Activate Virtual Environment:**
@@ -61,6 +62,10 @@ This repository contains a Python-based agent designed to query and process code
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss your changes.
 
+## Acknowledgments
+
+This project was inspired by and uses code from the [AI Agent Code Generator](https://github.com/techwithtim/AI-Agent-Code-Generator) video.
+
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. 
